@@ -1,4 +1,4 @@
-#Print a Sentence
+
 print ("hlowww person")
 #Print a Number
 print (7)
